@@ -1,6 +1,9 @@
 body {
     background-color: black;
     color: white;
+    background-image: url("assets/super_choque_7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 img {
@@ -18,9 +21,21 @@ h1 {
 }
 
 p {
-    color: rgba(207, 171, 7, 0.678);
+    color: rgb(255, 0, 0);
 }
 
 footer p {
     color: rgb(11, 197, 197);
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
