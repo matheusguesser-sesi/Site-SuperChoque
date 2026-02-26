@@ -22,7 +22,7 @@ h1 {
 
 p {
     color: rgb(153, 0, 255);
-    display: flex;
+    /* display: flex; */
     align-items: center;
     justify-content: center;
 
@@ -85,7 +85,7 @@ h3 {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: ;
+    /* background-color: ; */
 
     margin-left: 5%;
 }
@@ -101,4 +101,8 @@ h4 {
 hr {
     color: blueviolet;
     background-color: blueviolet;
+}
+
+a {
+    color: rgb(153, 0, 255);
 }
